@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyce-chir" alt="joyce-chir" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" scr="https://giphy.com/gifs/IbaHSmEeJGqk" alt="coding" width="400">
+<img align="right" src=![2863057a-9abb-4418-8bc9-a59f621eac12](https://github.com/user-attachments/assets/31400ba4-256c-4223-96bd-7e1b4d77d43e)
+ alt="coding" width="400">
 
 
 - 🔭 I’m currently working on **Data Analysis classes**
