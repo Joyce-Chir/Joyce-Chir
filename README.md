@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyce-chir" alt="joyce-chir" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" src=![2863057a-9abb-4418-8bc9-a59f621eac12](https://github.com/user-attachments/assets/31400ba4-256c-4223-96bd-7e1b4d77d43e)
+<img align="right" src=![2863057a-9abb-4418-8bc9-a59f621eac12]([https://github.com/user-attachments/assets/31400ba4-256c-4223-96bd-7e1b4d77d43e](https://github.com/Joyce-Chir/Joyce-Chir/blob/main/2863057a-9abb-4418-8bc9-a59f621eac12.jpg?raw=true))
  alt="coding" width="400">
 
 
